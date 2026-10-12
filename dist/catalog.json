@@ -1,0 +1,542 @@
+{
+  "source": "https://econ.sufe.edu.cn/6992/list.htm",
+  "journals": [
+    {
+      "name": "American Economic Review",
+      "issn": "0002-8282",
+      "tier": "top5"
+    },
+    {
+      "name": "Econometrica",
+      "issn": "0012-9682",
+      "tier": "top5"
+    },
+    {
+      "name": "Journal of Political Economy",
+      "issn": "0022-3808",
+      "tier": "top5"
+    },
+    {
+      "name": "Quarterly Journal of Economics",
+      "issn": "0033-5533",
+      "tier": "top5"
+    },
+    {
+      "name": "Review of Economic Studies",
+      "issn": "0034-6527",
+      "tier": "top5"
+    },
+    {
+      "name": "American Economic Journal: Applied Economics",
+      "issn": "1945-7782",
+      "tier": "sufe1"
+    },
+    {
+      "name": "American Economic Journal: Economic Policy",
+      "issn": "1945-7731",
+      "tier": "sufe1"
+    },
+    {
+      "name": "American Economic Journal: Macroeconomics",
+      "issn": "1945-7707",
+      "tier": "sufe1"
+    },
+    {
+      "name": "American Economic Journal: Microeconomics",
+      "issn": "1945-7669",
+      "tier": "sufe1"
+    },
+    {
+      "name": "Economic Journal",
+      "issn": "0013-0133",
+      "tier": "sufe1"
+    },
+    {
+      "name": "Games and Economic Behavior",
+      "issn": "0899-8256",
+      "tier": "sufe1"
+    },
+    {
+      "name": "International Economic Review",
+      "issn": "0020-6598",
+      "tier": "sufe1"
+    },
+    {
+      "name": "Journal of Development Economics",
+      "issn": "0304-3878",
+      "tier": "sufe1"
+    },
+    {
+      "name": "Journal of Econometrics",
+      "issn": "0304-4076",
+      "tier": "sufe1"
+    },
+    {
+      "name": "Journal of Economic History",
+      "issn": "0022-0507",
+      "tier": "sufe1"
+    },
+    {
+      "name": "Journal of Economic Theory",
+      "issn": "0022-0531",
+      "tier": "sufe1"
+    },
+    {
+      "name": "Journal of International Economics",
+      "issn": "0022-1996",
+      "tier": "sufe1"
+    },
+    {
+      "name": "Journal of Labor Economics",
+      "issn": "0734-306X",
+      "tier": "sufe1"
+    },
+    {
+      "name": "Journal of Monetary Economics",
+      "issn": "0304-3932",
+      "tier": "sufe1"
+    },
+    {
+      "name": "Journal of Public Economics",
+      "issn": "0047-2727",
+      "tier": "sufe1"
+    },
+    {
+      "name": "Journal of the European Economic Association",
+      "issn": "1542-4766",
+      "tier": "sufe1"
+    },
+    {
+      "name": "Quantitative Economics",
+      "issn": "1759-7323",
+      "tier": "sufe1"
+    },
+    {
+      "name": "Rand Journal of Economics",
+      "issn": "0741-6261",
+      "tier": "sufe1"
+    },
+    {
+      "name": "Review of Economics and Statistics",
+      "issn": "0034-6535",
+      "tier": "sufe1"
+    },
+    {
+      "name": "Theoretical Economics",
+      "issn": "1933-6837",
+      "tier": "sufe1"
+    },
+    {
+      "name": "American Journal of Agricultural Economics",
+      "issn": "0002-9092",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Brookings Papers on Economic Activity",
+      "issn": "0007-2303",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Canadian Journal of Economics",
+      "issn": "0008-4085",
+      "tier": "sufe2"
+    },
+    {
+      "name": "China Economic Review",
+      "issn": "1043-951X",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Econometric Theory",
+      "issn": "0266-4666",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Economic History Review",
+      "issn": "0013-0117",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Economic Theory",
+      "issn": "0938-2259",
+      "tier": "sufe2"
+    },
+    {
+      "name": "European Economic Review",
+      "issn": "0014-2921",
+      "tier": "sufe2"
+    },
+    {
+      "name": "European Journal of the History of Economic Thought",
+      "issn": "0967-2567",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Experimental Economics",
+      "issn": "1386-4157",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Explorations in Economic History",
+      "issn": "0014-4983",
+      "tier": "sufe2"
+    },
+    {
+      "name": "History of Political Economy",
+      "issn": "0018-2702",
+      "tier": "sufe2"
+    },
+    {
+      "name": "International Journal of Industrial Organization",
+      "issn": "0167-7187",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Agricultural Economics",
+      "issn": "0021-857X",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Applied Econometrics",
+      "issn": "0883-7252",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Business & Economic Statistics",
+      "issn": "0735-0015",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Comparative Economics",
+      "issn": "0147-5967",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Economic Behavior & Organization",
+      "issn": "0167-2681",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Economic Dynamics & Control",
+      "issn": "0165-1889",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Economic Education",
+      "issn": "0022-0485",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Economic Geography",
+      "issn": "1468-2702",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Economic Growth",
+      "issn": "1381-4338",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Economic Literature",
+      "issn": "0022-0515",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Economic Perspectives",
+      "issn": "0895-3309",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Economics & Management Strategy",
+      "issn": "1058-6407",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Environmental Economics and Management",
+      "issn": "0095-0696",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Health Economics",
+      "issn": "0167-6296",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Human Resources",
+      "issn": "0022-166X",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Industrial Economics",
+      "issn": "0022-1821",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Law & Economics",
+      "issn": "0022-2186",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Mathematical Economics",
+      "issn": "0304-4068",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Money, Credit and Banking",
+      "issn": "0022-2879",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Population Economics",
+      "issn": "0933-1433",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Real Estate Finance and Economics",
+      "issn": "0895-5638",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Regulatory Economics",
+      "issn": "0922-680X",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Risk and Uncertainty",
+      "issn": "0895-5646",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Urban Economics",
+      "issn": "0094-1190",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Macroeconomic Dynamics",
+      "issn": "1365-1005",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Regional Science and Urban Economics",
+      "issn": "0166-0462",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Review of Economic Dynamics",
+      "issn": "1094-2025",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Social Choice and Welfare",
+      "issn": "0176-1714",
+      "tier": "sufe2"
+    },
+    {
+      "name": "World Development",
+      "issn": "0305-750X",
+      "tier": "sufe2"
+    },
+    {
+      "name": "经济研究",
+      "issn": "0577-9154",
+      "tier": "sufe2"
+    },
+    {
+      "name": "AEA Papers and Proceedings",
+      "issn": "2574-0768",
+      "tier": "sufe2"
+    },
+    {
+      "name": "Journal of Finance",
+      "issn": "0022-1082",
+      "tier": "finance",
+      "utd24": true,
+      "field": "金融"
+    },
+    {
+      "name": "Journal of Financial Economics",
+      "issn": "0304-405X",
+      "tier": "finance",
+      "utd24": true,
+      "field": "金融"
+    },
+    {
+      "name": "Review of Financial Studies",
+      "issn": "0893-9454",
+      "tier": "finance",
+      "utd24": true,
+      "field": "金融"
+    },
+    {
+      "name": "The Accounting Review",
+      "issn": "0001-4826",
+      "tier": "utd24",
+      "field": "会计",
+      "utd24": true
+    },
+    {
+      "name": "Journal of Accounting and Economics",
+      "issn": "0165-4101",
+      "tier": "utd24",
+      "field": "会计",
+      "utd24": true
+    },
+    {
+      "name": "Journal of Accounting Research",
+      "issn": "0021-8456",
+      "tier": "utd24",
+      "field": "会计",
+      "utd24": true
+    },
+    {
+      "name": "Information Systems Research",
+      "issn": "1047-7047",
+      "tier": "utd24",
+      "field": "信息系统",
+      "utd24": true
+    },
+    {
+      "name": "INFORMS Journal on Computing",
+      "issn": "1091-9856",
+      "tier": "utd24",
+      "field": "信息系统",
+      "utd24": true
+    },
+    {
+      "name": "MIS Quarterly",
+      "issn": "0276-7783",
+      "tier": "utd24",
+      "field": "信息系统",
+      "utd24": true
+    },
+    {
+      "name": "Journal of Consumer Research",
+      "issn": "0093-5301",
+      "tier": "utd24",
+      "field": "市场营销",
+      "utd24": true
+    },
+    {
+      "name": "Journal of Marketing",
+      "issn": "0022-2429",
+      "tier": "utd24",
+      "field": "市场营销",
+      "utd24": true
+    },
+    {
+      "name": "Journal of Marketing Research",
+      "issn": "0022-2437",
+      "tier": "utd24",
+      "field": "市场营销",
+      "utd24": true
+    },
+    {
+      "name": "Marketing Science",
+      "issn": "0732-2399",
+      "tier": "utd24",
+      "field": "市场营销",
+      "utd24": true
+    },
+    {
+      "name": "Management Science",
+      "issn": "0025-1909",
+      "tier": "utd24",
+      "field": "运营与管理科学",
+      "utd24": true
+    },
+    {
+      "name": "Operations Research",
+      "issn": "0030-364X",
+      "tier": "utd24",
+      "field": "运营与管理科学",
+      "utd24": true
+    },
+    {
+      "name": "Journal of Operations Management",
+      "issn": "0272-6963",
+      "tier": "utd24",
+      "field": "运营与管理科学",
+      "utd24": true
+    },
+    {
+      "name": "Manufacturing & Service Operations Management",
+      "issn": "1523-4614",
+      "tier": "utd24",
+      "field": "运营与管理科学",
+      "utd24": true
+    },
+    {
+      "name": "Production and Operations Management",
+      "issn": "1059-1478",
+      "tier": "utd24",
+      "field": "运营与管理科学",
+      "utd24": true
+    },
+    {
+      "name": "Academy of Management Journal",
+      "issn": "0001-4273",
+      "tier": "utd24",
+      "field": "组织与战略",
+      "utd24": true
+    },
+    {
+      "name": "Academy of Management Review",
+      "issn": "0363-7425",
+      "tier": "utd24",
+      "field": "组织与战略",
+      "utd24": true
+    },
+    {
+      "name": "Administrative Science Quarterly",
+      "issn": "0001-8392",
+      "tier": "utd24",
+      "field": "组织与战略",
+      "utd24": true
+    },
+    {
+      "name": "Organization Science",
+      "issn": "1047-7039",
+      "tier": "utd24",
+      "field": "组织与战略",
+      "utd24": true
+    },
+    {
+      "name": "Journal of International Business Studies",
+      "issn": "0047-2506",
+      "tier": "utd24",
+      "field": "国际商务",
+      "utd24": true
+    },
+    {
+      "name": "Strategic Management Journal",
+      "issn": "0143-2095",
+      "tier": "utd24",
+      "field": "组织与战略",
+      "utd24": true
+    },
+    {
+      "name": "Review of Finance",
+      "issn": "1572-3097",
+      "tier": "finance",
+      "field": "金融",
+      "utd24": false
+    },
+    {
+      "name": "Journal of Corporate Finance",
+      "issn": "0929-1199",
+      "tier": "finance",
+      "field": "金融",
+      "utd24": false
+    },
+    {
+      "name": "Journal of Financial and Quantitative Analysis",
+      "issn": "0022-1090",
+      "tier": "finance",
+      "field": "金融",
+      "utd24": false
+    }
+  ],
+  "unresolved": [],
+  "note": "69 SUFE titles (5 top, 20 first, 44 second); the standalone AEA Papers and Proceedings has ISSN 2574-0768 since 2018 and is matched separately from AER. The four entries beyond the supplied screenshots were checked against the SUFE list and ISSN records.",
+  "utd24_source": "https://jsom.utdallas.edu/the-utd-top-100-business-school-research-rankings/list-of-journals"
+}

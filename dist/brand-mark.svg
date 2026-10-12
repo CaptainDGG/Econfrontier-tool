@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="EconFrontier 标识">
+  <g fill="none" stroke="#07559F" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M11 54 22 11h33"/>
+    <path d="M11 54h42"/>
+  </g>
+  <path d="M14 43c8-10 15-16 22-11 7 5 11 5 18-8" fill="none" stroke="#1874BC" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m48 24 7-2-1 7" fill="none" stroke="#1874BC" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
