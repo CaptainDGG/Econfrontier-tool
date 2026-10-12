@@ -2,6 +2,16 @@ const $ = selector => document.querySelector(selector);
 const escapeHtml = value => String(value ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const readLocal = (key, fallback) => { try { return JSON.parse(localStorage.getItem(key)) ?? fallback; } catch { return fallback; } };
 const writeLocal = (key, value) => { try { localStorage.setItem(key, JSON.stringify(value)); } catch {} };
+const pinGate=$("#pin-gate");
+if(sessionStorage.getItem("econfrontier.pinAccess")==="granted")pinGate.hidden=true;
+else {document.body.classList.add("pin-locked");setTimeout(()=>$("#pin-input").focus(),100);}
+$("#pin-form").addEventListener("submit",event=>{
+  event.preventDefault();
+  if($("#pin-input").value.trim().toUpperCase()==="DJ2026"){
+    sessionStorage.setItem("econfrontier.pinAccess","granted");
+    pinGate.hidden=true;document.body.classList.remove("pin-locked");$("#pin-input").value="";
+  }else{$("#pin-error").textContent="PIN 不正确，请再试一次。";$("#pin-input").select();}
+});
 const TOPICS = [
   {id:"innovation",name:"创新与技术",term:"innovation",words:["innovation","technology","patent","research and development","r&d"]},
   {id:"labor",name:"劳动经济学",term:"labor",words:["labor","labour","employment","wage","worker"]},

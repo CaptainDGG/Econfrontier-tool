@@ -1,10 +1,14 @@
-# EconFrontier · GitHub / Netlify 部署包
+# EconFrontier · GitHub Pages 部署包
 
-本包用于上传至 GitHub 仓库，再通过 Netlify 部署。请先解压，不要把 ZIP 本身上传到 GitHub。
-仓库根目录必须包含 dist 文件夹和 netlify.toml。Netlify 会发布 dist 内的网站文件。
+本包包含 `dist/` 网站文件和 `.github/workflows/pages.yml` 自动发布文件。网页入口已恢复体验 PIN `DJ2026`。
 
-网页内的体验 PIN 页面和前端校验已移除。本站部署后会直接打开主页；如果要限制访问，必须先在 Netlify 后台启用服务器侧访问保护，不能依赖本包本身。
+## 更新现有 GitHub 仓库
 
-注意：截至 2026-10，Netlify 自带的整站共享密码仅在 Pro 等支持该功能的方案可用，Credit-based Free / Personal 方案不提供此选项。若没有该功能，请不要将此包设为公开访问后再假定它受密码保护。可以升级到支持密码的方案，或另行实现服务端访问验证。
+1. 解压 ZIP，不要把 ZIP 本身上传到 GitHub。
+2. 在仓库的 **Code → Add file → Upload files** 页面，把解压后的 `dist`、`.github` 和 `README.md` 拖进上传区域，并提交修改。上传列表里应出现 `/dist/index.html`、`/dist/app.js` 和 `/.github/workflows/pages.yml`。
+3. 在仓库的 **Settings → Pages → Build and deployment → Source** 选择 **GitHub Actions**。
+4. 打开 **Actions**，等待 `Deploy EconFrontier to GitHub Pages` 运行成功；然后从 **Settings → Pages** 打开网站地址。
 
-不要把任何私人 API key、访问密码或环境变量值写入 dist、netlify.toml 或 GitHub 仓库。
+如果仓库属于个人 GitHub Free 账户，使用 GitHub Pages 前必须把仓库设为 Public；GitHub Pro 等支持从私人仓库发布。普通 GitHub Pages 网站仍面向公众开放。
+
+**重要：** `DJ2026` 是浏览器端的体验入口，不是访问控制。公开仓库和已发布网页中的前端代码、静态数据及该 PIN 都能被访客查看；知道网站地址的人也能绕过这个入口。不要把私人 API key 或真正需要保密的数据放进 `dist/`。
